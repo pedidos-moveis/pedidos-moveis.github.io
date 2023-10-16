@@ -24,11 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Impulsione os seus negócios e faça pedidos de onde você estiver com o aplicativo de força de vendas Pedidos Móveis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pedidosmoveis.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+locale: pt_BR
+date_format: "%d/%m/%Y"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
