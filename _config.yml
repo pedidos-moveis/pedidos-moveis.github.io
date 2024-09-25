@@ -27,6 +27,7 @@ url: "https://pedidosmoveis.com.br" # the base hostname & protocol for your site
 locale: pt_BR
 date_format: "%d/%m/%Y"
 timezone: America/Sao_Paulo
+google_analytics: G-RR3T32HRM8
 # Build settings
 theme: minima
 plugins:
