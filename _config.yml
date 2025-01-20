@@ -28,6 +28,11 @@ locale: pt_BR
 date_format: "%d/%m/%Y"
 timezone: America/Sao_Paulo
 google_analytics: G-RR3T32HRM8
+analytics:
+  provider: "google-gtag"
+  google:
+    measurement_id: "G-RR3T32HRM8" # Substitua pelo seu ID do GA4
+    anonymize_ip: false
 # Build settings
 theme: minima
 plugins:
