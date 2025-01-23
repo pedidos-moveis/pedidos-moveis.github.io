@@ -3,7 +3,8 @@ layout: post
 title:  "Os Benefícios da Integração entre ERP e Aplicativos de Força de Vendas"
 date:   24/09/2024- 14:02:23 -0300
 date_format: "%d/%m/%Y"
-categories: ERP aplicativo força_de_vendas PedidosMóveis ForçaDeVendas IntegraçãoERP Produtividade Vendas Tecnologia Negócios
+categories: [ERP, aplicativo, força de vendas, Pedidos Móveis, Integração ERP, Produtividade, Vendas Tecnologia, Negócios]
+featured: true
 ---
 
 ## Introdução

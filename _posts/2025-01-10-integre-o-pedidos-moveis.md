@@ -3,7 +3,8 @@ layout: post
 title:  "Integre o Pedidos Móveis ao Seu ERP e Transforme Suas Vendas!"
 date:   10/01/2025- 10:30:23 -0300
 date_format: "%d/%m/%Y"
-categories: aplicativo força_de_vendas
+thumbnail: "/assets/images/tela.png"
+categories: [Aplicativo, força de vendas]
 ---
 *Descubra como nosso app de força de vendas pode aumentar a produtividade da sua equipe com uma integração rápida e eficiente.*
 

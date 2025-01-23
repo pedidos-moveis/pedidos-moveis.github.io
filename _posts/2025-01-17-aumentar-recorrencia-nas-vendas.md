@@ -2,7 +2,8 @@
 layout: post
 title: "Como Aumentar a Recorrência nas Vendas?"
 date: 2025-01-17 10:00:00 -0300
-categories: [vendas, distribuidores, recorrencia, pedidos moveis, ERP]
+categories: [Vendas, distribuidores, recorrencia, pedidos moveis, ERP]
+thumbnail: "/assets/images/sales-management-dashboard.png"
 featured: true
 ---
 
