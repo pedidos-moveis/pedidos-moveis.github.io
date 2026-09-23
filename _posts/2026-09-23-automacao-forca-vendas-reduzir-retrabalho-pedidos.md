@@ -6,8 +6,12 @@ description: "Veja como organizar a automação da força de vendas, conferir pe
 author: "Pedidos Móveis"
 categories: [Força de Vendas, Gestão de Pedidos]
 tags: [automação da força de vendas, aplicativo de força de vendas, pedidos de venda, integração ERP, vendas externas]
-featured: false
+thumbnail: "/assets/images/automacao-forca-vendas-pedidos-erp.png"
+image: "https://blog.pedidosmoveis.com.br/assets/images/automacao-forca-vendas-pedidos-erp.png"
+featured: true
 ---
+
+![Ilustração conceitual de pedidos conferidos em um celular e um computador conectados ao ERP, com telas ilustrativas.](/assets/images/automacao-forca-vendas-pedidos-erp.png)
 
 O vendedor termina a visita, mas o pedido ainda precisa passar por uma planilha, uma troca de mensagens e uma segunda digitação no escritório. Quando surge uma diferença no preço ou na quantidade, alguém volta a falar com o cliente para confirmar o que foi combinado.
 
