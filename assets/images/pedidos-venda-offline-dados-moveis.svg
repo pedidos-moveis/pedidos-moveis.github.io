@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Conferência do pedido durante uma visita sem conexão</title><desc id="desc">Ilustração de um celular com símbolo de conexão interrompida ao lado de uma prancheta com três itens conferidos e caixas de mercadoria.</desc>
+<rect width="1200" height="630" fill="#edf5f8"/><circle cx="370" cy="320" r="240" fill="#d9eaf0"/>
+<rect x="222" y="111" width="235" height="405" rx="34" fill="#18384b"/><rect x="241" y="146" width="197" height="326" rx="12" fill="#fff"/><rect x="300" y="126" width="78" height="7" rx="3" fill="#b6ced9"/>
+<path d="M285 238q54-49 108 0M307 260q32-29 64 0" fill="none" stroke="#7193a3" stroke-width="12" stroke-linecap="round"/><circle cx="339" cy="285" r="8" fill="#7193a3"/><path d="m284 205 110 108" stroke="#cc664b" stroke-width="12" stroke-linecap="round"/>
+<rect x="273" y="353" width="132" height="12" rx="6" fill="#d9eaf0"/><rect x="273" y="385" width="100" height="12" rx="6" fill="#d9eaf0"/>
+<rect x="525" y="150" width="282" height="360" rx="18" fill="#cba976"/><rect x="544" y="175" width="244" height="315" rx="8" fill="#fff"/><rect x="610" y="133" width="110" height="48" rx="12" fill="#18384b"/>
+<g fill="none" stroke="#318578" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="m568 257 13 13 24-30M568 337l13 13 24-30M568 417l13 13 24-30"/></g>
+<g fill="#d9eaf0"><rect x="627" y="248" width="129" height="13" rx="6"/><rect x="627" y="328" width="113" height="13" rx="6"/><rect x="627" y="408" width="129" height="13" rx="6"/></g>
+<path d="m858 378 102-48 102 48v133H858z" fill="#d4b485"/><path d="m858 378 102 49 102-49M960 427v84M960 330v48" fill="none" stroke="#997750" stroke-width="5"/>
+</svg>
