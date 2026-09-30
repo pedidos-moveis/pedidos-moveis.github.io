@@ -97,4 +97,6 @@ Registre o que foi alterado, o resultado esperado e o que apareceu em cada siste
 
 A conexão com o Bling é mais um passo para aproximar a gestão da empresa do trabalho da equipe comercial. A homologação permite validar essa troca de informações e ajustar os pontos que ainda não estão concluídos.
 
-**Sua empresa utiliza o Bling e quer conhecer a proposta?** [Fale com a equipe do Pedidos Móveis](https://pedidosmoveis.com.br/) para consultar o estágio da integração e avaliar os cenários da sua operação. A disponibilidade e o escopo devem ser confirmados com nossa equipe durante esta fase.
+**Quer avaliar a integração com o Bling para sua operação?** [Solicite uma avaliação à equipe do Pedidos Móveis por e-mail](mailto:contato@pedidosmoveis.com.br). Na mensagem, informe qual ERP sua empresa utiliza, quantos vendedores usarão o aplicativo e quais processos precisam de integração — por exemplo, cadastros, estoque, pedidos ou tabelas de preços.
+
+Essas informações ajudam nossa equipe a avaliar seu cenário e orientar quais fluxos precisam ser testados. **A integração com o Bling continua em homologação:** a disponibilidade para participar dos testes, o escopo e as limitações aplicáveis à sua operação devem ser confirmados com nossa equipe nesta fase.
