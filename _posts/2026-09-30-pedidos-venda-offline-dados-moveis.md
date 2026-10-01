@@ -9,7 +9,7 @@ categories: [Força de Vendas, Gestão de Pedidos]
 tags: [pedido de venda offline, vendas externas, gestão de pedidos]
 thumbnail: "/assets/images/pedidos-venda-offline-dados-moveis.svg"
 image: "https://blog.pedidosmoveis.com.br/assets/images/pedidos-venda-offline-dados-moveis.svg"
-featured: false
+featured: true
 ---
 
 ![Ilustração de um celular com conexão interrompida ao lado de uma prancheta com itens conferidos e caixas de mercadoria.](/assets/images/pedidos-venda-offline-dados-moveis.svg)

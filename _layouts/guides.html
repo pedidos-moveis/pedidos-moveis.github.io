@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% feed_meta %}
+  <link rel="stylesheet" href="{{ '/assets/blog-guides.css' | relative_url }}">
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+</head>
+<body>
+  <a class="skip" href="#conteudo">Pular para o conteúdo</a>
+  <header>
+<div class="wrap header">
+<a class="brand" href="{{ '/' | relative_url }}">Pedidos <span>Móveis</span> <span class="muted">/ Blog</span>
+</a>
+<nav aria-label="Navegação principal">
+<a href="{{ '/sobre/' | relative_url }}">Sobre</a>
+<a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+<a href="https://pedidosmoveis.com.br/">Conheça o aplicativo ↗</a>
+</nav>
+</div>
+</header>
+  <main id="conteudo" class="wrap" tabindex="-1">
+    {{ content }}
+  </main>
+  <footer>
+<div class="wrap footer">
+<div>
+<strong>Pedidos Móveis</strong>
+<br>Conteúdo para quem vende e gerencia pedidos.</div>
+<div>
+<a href="mailto:contato@pedidosmoveis.com.br">Fale com a equipe</a> · <a href="{{ '/feed.xml' | relative_url }}">Receba pelo RSS</a>
+</div>
+</div>
+</footer>
+</body>
+</html>
