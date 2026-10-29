@@ -112,4 +112,4 @@ Aumentar a recorrência nas vendas é um passo essencial para garantir a sustent
 
 **Solicite uma demonstração gratuita agora mesmo e veja como o Pedidos Móveis pode transformar sua operação de vendas!**  
 
-👉 [**Clique aqui para falar com nossos especialistas**](https://materiais.pedidosmoveis.com.br/parceiros)  
+👉 [**Clique aqui para falar com nossos especialistas**](https://pedidosmoveis.com.br/parceiro)  

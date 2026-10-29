@@ -105,7 +105,7 @@ Se a sua empresa ainda não aproveita essas vantagens, este é o momento de cons
 Descubra como o **Pedidos Móveis** pode transformar o seu negócio. Entre em contato conosco e conheça todas as funcionalidades e benefícios que podemos oferecer.
 
 - **Site:** [pedidosmoveis.com.br](https://pedidosmoveis.com.br)
-- **Seja Parceiro:** [pedidosmoveis.com.br/parceiros](https://materiais.pedidosmoveis.com.br/parceiros)
+- **Seja Parceiro:** [pedidosmoveis.com.br/parceiro](https://pedidosmoveis.com.br/parceiro)
 - **E-mail:** contato@pedidosmoveis.com.br
 
 **Transforme a experiência de vendas com a integração ao Pedidos Móveis.**

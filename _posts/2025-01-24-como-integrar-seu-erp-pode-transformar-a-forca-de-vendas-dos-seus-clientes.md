@@ -56,7 +56,7 @@ O **Pedidos Móveis** é uma solução poderosa que complementa qualquer ERP, ag
 Quer oferecer mais valor aos seus clientes e expandir o potencial do seu ERP?
 Entre em contato com a nossa equipe e descubra como o **Pedidos Móveis** pode transformar a sua solução em referência no mercado!
 
-[Saiba Mais](https://pedidosmoveis.com.br/) ou [Solicite uma Demonstração](https://materiais.pedidosmoveis.com.br/parceiros)
+[Saiba Mais](https://pedidosmoveis.com.br/) ou [Solicite uma Demonstração](https://pedidosmoveis.com.br/parceiro)
 
 ---
 

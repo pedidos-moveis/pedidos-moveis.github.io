@@ -64,5 +64,5 @@ Se sua empresa busca mais controle, eficiência e resultados nas vendas, integra
 🔗 Quer saber mais? Entre em contato e descubra como transformar sua operação comercial!
 
 - **Site:** [pedidosmoveis.com.br](https://pedidosmoveis.com.br)
-- **Seja Parceiro:** [pedidosmoveis.com.br/parceiros](https://materiais.pedidosmoveis.com.br/parceiros)
+- **Seja Parceiro:** [pedidosmoveis.com.br/parceiro](https://pedidosmoveis.com.br/parceiro)
 - **E-mail:** contato@pedidosmoveis.com.br
