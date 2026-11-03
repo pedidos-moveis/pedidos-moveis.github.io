@@ -104,3 +104,5 @@ Se seus clientes precisam levar catálogo, condições comerciais e pedidos para
 <p><a href="https://pedidosmoveis.com.br/parceiros#contato" style="display:inline-block; padding:12px 20px; border-radius:6px; background:#5c378c; color:#fff; font-weight:600; text-decoration:underline; text-underline-offset:3px;">Conversar sobre parceria ERP</a></p>
 
 Prefere e-mail? Escreva para [contato@pedidosmoveis.com.br](mailto:contato@pedidosmoveis.com.br?subject=Parceria%20ERP%20com%20o%20Pedidos%20M%C3%B3veis), informando sua empresa, seu ERP e a necessidade de integração.
+
+<script src="{{ '/assets/parceiros-erp-attribution.js' | relative_url }}" defer></script>
